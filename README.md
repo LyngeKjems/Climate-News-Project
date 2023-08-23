@@ -1,4 +1,4 @@
-# Climate News Coverage at Jyllands Posten
+# Climate News Coverage at Jyllands-Posten
 ### Investigating correlation between climate news coverage and weather deviations
 
 ## Overview
@@ -54,8 +54,6 @@ To ensure the analysis's integrity, please execute the Jupyter notebooks in the 
 4. `Weather_monthly.ipynb`
 5. `Merged_daily_data.ipynb`
 6. `Merged_monthly_data.ipynb`
-
-Executing them in this order will ensure data continuity and the correctness of results.
 
 ---
 
